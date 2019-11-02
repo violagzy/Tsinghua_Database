@@ -1,6 +1,6 @@
 # Tsinghua_Exploratory-Data-Analysis_MOOC-Study
 
-__Database Technology and Application__
+__Database Technology and Application 2018 Spring__
 
 _Prof Xiu Li_
 
